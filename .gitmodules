@@ -1,0 +1,3 @@
+[submodule "solady"]
+	path = solady
+	url = https://github.com/CheezburgerHQ/solady
