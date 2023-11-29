@@ -1,4 +1,4 @@
-## 🍔 Cheezburger Smart Contracts
+# <img src="logo.png" alt="Cheezburger" height="96"/>
 
 This repository contains the core smart contracts and interfaces powering the Cheezburger ecosystem.
 
