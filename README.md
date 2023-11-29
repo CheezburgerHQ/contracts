@@ -1,4 +1,4 @@
-# <img src="logo.png" alt="Cheezburger" height="96"/>
+# <img src="logo.png" alt="Cheezburger" height="64" width="297" />
 
 This repository contains the core smart contracts and interfaces powering the Cheezburger ecosystem.
 
