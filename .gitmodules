@@ -1,3 +1,9 @@
 [submodule "solady"]
 	path = solady
 	url = https://github.com/CheezburgerHQ/solady
+[submodule "@uniswap/v2-core"]
+	path = @uniswap/v2-core
+	url = https://github.com/Uniswap/v2-core
+[submodule "@uniswap/v2-periphery"]
+	path = @uniswap/v2-periphery
+	url = https://github.com/Uniswap/v2-periphery
