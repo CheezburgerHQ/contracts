@@ -47,6 +47,34 @@ All contracts are immutable, non-upgradeable and internally audited for security
 
 - `CheezburgerOwnership.sol` - Social token ownership management
 
+## Live Implementations
+
+#### Factory (Cheddar 1.1)
+
+| Chain | Contract Address | Explorer Link |
+|-|-|-|
+| Ethereum | 0xb51B7D01c94CEFF686E6463CE1eA461C2bb8276B | [Explorer](https://etherscan.io/address/0xb51b7d01c94ceff686e6463ce1ea461c2bb8276b)
+| BNB Smart Chain | 0xb51B7D01c94CEFF686E6463CE1eA461C2bb8276B | [Explorer](https://bscscan.com/address/0xb51b7d01c94ceff686e6463ce1ea461c2bb8276b)
+| Arbitrum | 0xb51B7D01c94CEFF686E6463CE1eA461C2bb8276B | [Explorer](https://arbiscan.io/address/0xb51b7d01c94ceff686e6463ce1ea461c2bb8276b)
+| Optimism | 0xb51B7D01c94CEFF686E6463CE1eA461C2bb8276B | [Explorer](https://optimistic.etherscan.io/address/0xb51b7d01c94ceff686e6463ce1ea461c2bb8276b)
+| Polygon | 0xb51B7D01c94CEFF686E6463CE1eA461C2bb8276B | [Explorer](https://polygonscan.com/address/0xb51b7d01c94ceff686e6463ce1ea461c2bb8276b) 
+| Base | 0xb51B7D01c94CEFF686E6463CE1eA461C2bb8276B | [Explorer](https://basescan.org/address/0xb51b7d01c94ceff686e6463ce1ea461c2bb8276b)
+| Ethereum Goerli | 0xb51B7D01c94CEFF686E6463CE1eA461C2bb8276B | [Explorer](https://goerli.etherscan.io/address/0xb51b7d01c94ceff686e6463ce1ea461c2bb8276b)
+| Base Goerli | 0xb51B7D01c94CEFF686E6463CE1eA461C2bb8276B | [Explorer](https://goerli.basescan.org/address/0xb51b7d01c94ceff686e6463ce1ea461c2bb8276b)
+| BNB Smart Chain Testnet | 0xb51B7D01c94CEFF686E6463CE1eA461C2bb8276B | [Explorer](https://testnet.bscscan.com/address/0xb51b7d01c94ceff686e6463ce1ea461c2bb8276b)
+
+#### CHZB (Social, Liquidity-Less)
+
+| Chain | Contract Address | Explorer Link |
+|-|-|-|
+| Ethereum | 0xaDd8AbDEa5Cb95f4DCD8e128Eeef64f023615A6a | [Explorer](https://etherscan.io/address/0xaDd8AbDEa5Cb95f4DCD8e128Eeef64f023615A6a)
+
+#### Social (Ownership)
+
+| Chain | Contract Address | Explorer Link |
+|-|-|-|
+| Ethereum | 0x5F08A522c8a19b59e856aC52973a4617c05F8FFa | [Explorer](https://etherscan.io/address/0x5F08A522c8a19b59e856aC52973a4617c05F8FFa)
+
 ## Licensing
 
 The core Cheezburger contracts are released under the MIT License. However, CHZB and Social remains unlicensed. Please review each contract for details on licensing.
